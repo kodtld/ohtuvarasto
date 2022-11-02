@@ -1,1 +1,2 @@
 ![workflow](https://github.com/kodtld/ohtuvarasto/actions/workflows/main.yml/badge.svg)
+[![codecov](https://codecov.io/gh/kodtld/ohtuvarasto/branch/main/graph/badge.svg?token=BVX1YC93ME)](https://codecov.io/gh/kodtld/ohtuvarasto)
